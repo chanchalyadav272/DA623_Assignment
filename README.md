@@ -21,7 +21,7 @@ Follow these steps to set up and run the project scripts:
 2. **Install Dependencies:** Before running the scripts, you need to install several required libraries. Use pip to install these dependencies:
 
    ```bash
-   pip install numpy scipy matplotlib pandas seaborn scikit-learn
+   pip install numpy scipy matplotlib pandas scikit-learn
 
 3. **Update Dataset Path:** Ensure the dataset path is correctly updated in the scripts to reflect your local setup.
 4. **Run the Scripts:** Execute the Python scripts to utilize PCA as a regression approach.
